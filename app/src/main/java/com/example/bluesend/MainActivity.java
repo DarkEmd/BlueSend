@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     static final int STATE_CONNECTED = 3;
     static final int STATE_CONNECTION_FAILED = 4;
     static final int STATE_MESSAGE_RECEIVED = 5;
-    private static final String APP_NAME = "BluetoothChatApp";
+    private static final String APP_NAME = "BlueSend";
     private static final UUID MY_UUID = UUID.fromString("318c6089-985c-4773-b7ca-4c6130e4209e");
     Button listen, send, listDevices;
     ListView listView;
