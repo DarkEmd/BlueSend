@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothChatApp</string>
+    <string name="connecting">Connecting</string>
+    <string name="listening">Listening</string>
+    <string name="connected">Connected</string>
+    <string name="failed">Connection Failed</string>
+    <string name="listen">Listen</string>
+    <string name="list">List</string>
+    <string name="condition">Condition</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="send">Send</string>
+</resources>
